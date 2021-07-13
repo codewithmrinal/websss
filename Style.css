@@ -1,0 +1,12 @@
+blockquote {
+  background: #000;
+  }
+blockquote:before {
+  color: #000;
+  }
+blockquote:after {
+  color: #000;
+}
+blockquote p {
+  color:#fff;
+}
